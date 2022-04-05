@@ -15,7 +15,7 @@ sequence = infile.read().replace("\r\n","").replace("\n","")
 infile.close()
 
 #print(sequence)
-
+#hello
 ########################
 ## Set empty variable ##
 ########################
