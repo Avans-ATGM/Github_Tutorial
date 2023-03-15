@@ -19,7 +19,7 @@ infile.close()
 ########################
 ## Set empty variable ##
 ########################
-
+#nice
 A=0
 T=0
 G=0
