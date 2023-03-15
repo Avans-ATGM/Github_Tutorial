@@ -7,7 +7,7 @@ filename = "nucleotide_file.txt"
 outputname = "nucleotide_output.txt"
 
 ###############
-## Open file ##
+## Open file, PSV wordt kampioen dit jaar ##
 ###############
 
 infile = open(location+filename,"r")
